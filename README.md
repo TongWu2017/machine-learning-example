@@ -1,5 +1,7 @@
 # machine-learning-example
 
+Task: Machine Learning
+
 Machine learning is when a computer program learns, with some similarities to how humans learn. 
 
 A human can learn through a combination of examples, trials & errors, and feedbacks. A machine does it similarly using data, which can be obtained from sample data inputted by a human to get it started (examples), from performing tasks on its own and testing which outputs are acceptable (trials & errors), or by using a variety of ways to perform a task and receiving a score on how time or energy efficiently it performed.
